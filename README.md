@@ -3,6 +3,7 @@ Challenge 1-2 are on the PDF
 
 #challenge 3:
     1.Import Challenge 3 folder
+    
     2.Create Docker-compose.yml with the information given on mine
     3.Run docker-compose up -d
     4.Check Docker desktop to make sure the build is running successfully (go to builds)
